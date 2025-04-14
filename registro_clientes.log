@@ -1,0 +1,5 @@
+2025-04-14 00:20:58,364 - INFO - Nuevo cliente registrado: Ana, ana@mail.com, 25 a�os
+2025-04-14 00:20:58,365 - INFO - Nuevo cliente registrado: Tom�s, tomas@mail.com, 16 a�os
+2025-04-14 00:20:58,365 - ERROR - Error al agregar cliente: Datos inv�lidos al registrar cliente
+2025-04-14 00:20:58,365 - INFO - Ana es mayor de edad \u2705
+2025-04-14 00:20:58,367 - WARNING - Tom�s es menor de edad \u26a0\ufe0f
